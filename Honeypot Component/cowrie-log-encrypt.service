@@ -1,0 +1,9 @@
+[Unit]
+Description=Encrypt Cowrie Honeypot Logs
+After=cowrie.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /usr/local/bin/cowrie_encrypt.py
+User=pi
+Group=pi
