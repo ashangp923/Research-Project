@@ -1,0 +1,29 @@
+{
+  "run_id": "20260304_193540",
+  "features": [
+    "Protocol Type",
+    "Duration",
+    "Rate",
+    "Srate",
+    "syn_flag_number",
+    "ack_flag_number",
+    "fin_flag_number",
+    "rst_flag_number",
+    "TCP",
+    "UDP",
+    "ICMP",
+    "Min",
+    "Max",
+    "AVG",
+    "Std",
+    "Tot size",
+    "IAT",
+    "Number"
+  ],
+  "threshold": 0.5,
+  "teacher_test_metrics": {
+    "acc": 0.992925,
+    "prec": 0.9989877005618262,
+    "rec": 0.98685,
+    "f1": 0.992881756671781,
+    "cm": 

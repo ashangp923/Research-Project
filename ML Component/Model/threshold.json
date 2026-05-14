@@ -1,0 +1,4 @@
+{
+  "threshold": 0.5,
+  "rate_mode": "pkts_bytes"
+}

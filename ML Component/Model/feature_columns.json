@@ -1,0 +1,20 @@
+[
+  "Protocol Type",
+  "Duration",
+  "Rate",
+  "Srate",
+  "syn_flag_number",
+  "ack_flag_number",
+  "fin_flag_number",
+  "rst_flag_number",
+  "TCP",
+  "UDP",
+  "ICMP",
+  "Min",
+  "Max",
+  "AVG",
+  "Std",
+  "Tot size",
+  "IAT",
+  "Number"
+]
